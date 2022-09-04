@@ -7,7 +7,7 @@ Our Robot is designed as below.
 
 ![](./image/0.jpg)
 
-![](./image/1.png)
+![](./image/1.jpg)
 
 ![](./image/2.png)
 
