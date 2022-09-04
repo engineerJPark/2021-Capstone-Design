@@ -3,7 +3,7 @@
 
 This repo is for archive final result of 2021 Korea Univ. ME. Capstone Design.
 
-Our Robot has shape like this
+Our Robot is designed as below.
 
 ![](./image/0.jpg)
 
